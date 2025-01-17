@@ -5,7 +5,7 @@ The dataset generated to train the models can be found at: https://www.kaggle.co
 
 This notebook also includes all details required to train the models https://www.kaggle.com/code/marwaelteir/tweets-geolocation-using-deep-learning/notebook
 
-This repository includes the .keras file of the best six trained models https://www.kaggle.com/models/marwaelteir/ksatweetsclassifier/
+This repository includes the .keras files of the best six trained models https://www.kaggle.com/models/marwaelteir/ksatweetsclassifier/
 
 # Publications
     @article{elteir2025cost,
