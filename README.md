@@ -1,11 +1,12 @@
 # Tweets-Geolocation-Using-Deep-Learning
 This repository explores the application of deep learning techniques to the task of geolocating tweets. It includes implementations of various models designed to accurately pinpoint the origin of tweets to specific provinces or states.
 
-The dataset generated to train the models can be found at: https://www.kaggle.com/datasets/marwaelteir/ksageolocatedtweets
+The dataset generated to train the models can be found here: https://www.kaggle.com/datasets/marwaelteir/ksageolocatedtweets
 
-This notebook also includes all details required to train the models https://www.kaggle.com/code/marwaelteir/tweets-geolocation-using-deep-learning/notebook
+This notebook also provides all the details required to train the models: https://www.kaggle.com/code/marwaelteir/tweets-geolocation-using-deep-learning/notebook
 
-This repository includes the .keras files of the best six trained models https://www.kaggle.com/models/marwaelteir/ksatweetsclassifier/
+This repository includes the .keras files for the six best-performing trained models: 
+https://www.kaggle.com/models/marwaelteir/ksatweetsclassifier/
 
 # Publications
     @article{elteir2025cost,
