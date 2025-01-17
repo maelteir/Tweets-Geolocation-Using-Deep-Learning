@@ -1,5 +1,5 @@
 # Tweets-Geolocation-Using-Deep-Learning
-Geolocating tweets at province level using different deep learning techniques
+This repository explores the application of deep learning techniques to the task of geolocating tweets. It includes implementations of various models designed to accurately pinpoint the origin of tweets to specific provinces or states.
 
 # Publications
     @article{elteir2025cost,
